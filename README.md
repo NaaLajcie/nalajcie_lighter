@@ -1,4 +1,4 @@
-# NaLajcie - Ligher
+# NaLajcie - lighter
 ![Screenshot_4](https://github.com/NaaLajcie/nalajcie_lighter/assets/134964273/cfffc9ea-2ba9-477c-9426-4661842226ab)
 
 
