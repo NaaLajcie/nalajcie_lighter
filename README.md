@@ -4,9 +4,9 @@
 
 ## Just add it to your items  ( ox_inventory/data/items.lua )
 	['lighter'] = {
-		label = 'Zapalniczka',
+		label = 'Lighter',
 		weight = 70,
-		stack = true
+		stack = false
 	},
 
 and run the script in your server.cfg
