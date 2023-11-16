@@ -14,7 +14,7 @@ and run the script in your server.cfg
 
 **Showcase Video:** [Click Here ](https://www.youtube.com/watch?v=vTR4nqzBiyI)
 
-## Sprawdź moje inne skrypty
+## Check out my other scripts
 **Tebex:** [Click Here](https://nalajcie-shop.tebex.io/package/5996109)
 
 **Discord:** [Click Here](https://discord.gg/8ENA4VtKxe)
